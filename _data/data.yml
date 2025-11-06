@@ -8,24 +8,21 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Rin Yamada, Ph.D.
+  tagline: Project Assistant Professor
+  avatar: image.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: rin.yamada[at]nao.ac.jp
+  timezone: Japan/Tokyo # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  github: r-yamada1998
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,45 +34,41 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Japanese
       level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
+    - idiom: English
       level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Giant molecular cloud formation
       link:
 
 
-    - item: Snowboarding
+    - item: ISM evolution
       link:
 
 
-    - item: Cooking
+    - item: High- and low-mass star formation
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    I am Rin Yamada, a project Assistant Professor at Nobeyama Radio Observatory, 
+    which is a branch of National Astronomical Observatory of Japan. I am specialized in
+    star formation, ISM evolution, and local group galaxies as well as controlling software 
+    development for radio telescopes. I have completed my Ph.D. in Nagoya University, under the 
+    co-supervision of Prof. Fukui and Prof. Tachihara. 
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Ph.D. in Science
+    university: Nagoya University, Graduate School of Science
+    time: 2022 - 2025
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -84,9 +77,10 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+
+  - degree: MSc in Science
+    university: Nagoya University, Graduate School of Science
+    time: 2020 - 2022
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -95,192 +89,121 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
+  - degree: BSc in Science
+    university: Nagoya University, Faculty of Science
+    time: 2016 - 2020
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
+
+presentjob:
+  title: Present position
+  info:
+  - role: Project Assistant Professor
+    time: Oct. 1, 2025 - Present
+    company: Nobeyama Radio Observatory
+    details: |
+      I am in charge of Commissioning and Science Verification (CSV) manager of NRO, and a member of Science Operation, Computing, and Public Outreach teams.
+      In addition to these roles, my main works are,
+       - To conduct high-impact scientific research using the Nobeyama 45-m radio telescope.
+       - To promote the Nobeyama 45-m radio telescope both domestically and internationally and increase the number of its users.
+       - To take responsibility for one or more of the operational divisions involved in the management of the Nobeyama 45-m radio telescope.
+       - To actively participate in discussions and planning for Japan’s large-scale future projects in astronomy.
 
 experiences:
-  title: Experiences
+  title: Research history
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Project Research Fellow
+    time: Apr. 1, 2025 - Sep. 30, 2025
+    company: Gifu university / National Astronomical Observatory of Japan
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      As a postdoctoral researcher in the ALMA Joint Scientific Research Program, 
+      I was dispatched from the National Astronomical Observatory of Japan to Gifu University, 
+      where I conducted research on the interaction between supernova remnants and interstellar gas with Associate Professor Hidetoshi Sano.
+  - role: JSPS Research Fellow (DC1)
+    time: Apr. 1, 2022 - Mar. 31, 2025
+    company: Nagoya university
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      I have employed in the research of GMC evolution and subsequent high-mass star formation in our Galaxy and nearby Galaxies. Main findings were
+        - Limit the GMC evolution time scales to ~10 Myr using the cloud classification scheme.
+        - Confirmed the initial condition of high-mass star formation "0.1 solar mass in 0.1 pc radius" is achieved by the cloud-cloud collisions.
+      These findings were the primary contents of my Ph. D. thesis.
 
 certifications:
-  title: Certifications
+  title: Recent Oral talks in international conference
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name: From molecular cloud formation to gas ionization; <br>various functions of colliding gas flow observed in the outer solar circle
+    start: Sep. 16 2025
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    organization: Stellar Origins 2025
+    credentialid: Sep. 15--19 2025
+    credentialurl: https://stellarorigins2025.univie.ac.at/
+    credentialname: stellarorigins2025
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      Recent studies have revealed that colliding flows play a crucial role in the evolution of the interstellar medium (ISM). Kinematic analyses of CO molecular gas using the Nobeyama 45-m telescope and the Arizona Radio Observatory's Submillimeter Telescope (SMT) toward high-mass star-forming regions in the outer Galaxy—where foreground and background contamination is minimal—have suggested the cloud-cloud collisions in regions such as W3, Sh2-233, and GL 490 (Yamada et al. 2022, 2024, 2025 submitted). Particularly in the Sh2-233 region, the collision of molecular clouds with column densities on the order of 10^22 cm^-2 and a relative velocity of ~3 km/s may produce shock compression conditions that achieve the initial conditions of high-mass star formation as predicted by the classical monolithic collapse model, namely a 0.1 pc radius core with 100 solar masses. This indicates the molecular cloud-cloud collisions as a viable mechanism for achieving the initial conditions for massive star formation, and supported the cloud-cloud collision as a major driver of high-mass star formation (see Fukui et al. 2021 for review). On the other hand, in the GL 490 region, we have identified a potential transition from pure atomic hydrogen gas to molecular gas triggered by the collision between HI gas with a column density of 5×10^20 cm^-2 and CO gas with a column density of 1×10^22 cm^-2 having a relative velocity of 10 km/s (Yamada et al. 2025, submitted). Furthermore, in the IVC75 region, a collision between infalling intermediate-velocity cloud gas with a column density of 1×10^20 cm^-2 and the Galactic disk gas at a relative velocity of 50 km/s ( (Hayakawa & Fukui 2024) may have caused ionization of the HI gas (Yamada et al., in preparation). In this presentation, we will discuss the diverse physical outcomes of these collision events and highlight how they depend on the density of the pre-collision gas and the relative velocity. We will also summarize the emerging picture of colliding flows as a key driver of ISM evolution.
+
+  - name: Gas ionization driven by the intermediate velocity clouds<br> falling onto the Galactic disk
+    start: Aug. 26 2025
+    organization: Decoding Galactic Evolution through<br> the Interplay of the 
+                  Multi-Phase Interstellar Medium
+    credentialid: Aug. 25--29 2025
+    credentialurl: https://www1.gifu-u.ac.jp/~MultiPhaseISM2025/
+    credentialname: MultiPhaseISM2025
+    details: |
+      High-velocity clouds (HVCs), characterized by velocities exceeding –100 km/s as they fall toward the Galactic plane, have been suggested to originate from gas accreting from the intergalactic medium. In contrast, intermediate-velocity clouds (IVCs), which have velocities around –50 km/s—between those of HVCs and local gas—have traditionally been interpreted as gas blown out by past events such as supernova explosions and now falling back onto the Galactic disk as part of a galactic fountain cycle (fountain cycle; Shapiro & Field 1976;Bregman 1989). However, Hayakawa & Fukui (2024), based on a comparison of τ₃₅₃ and HI, pointed out that a significant fraction of IVCs consists of low-metallicity gas. They argued that IVCs may be decelerated components of HVCs interacting with halo or local gas, highlighting the growing importance of IVCs in the process of gas accretion onto the Galactic disk. In our study, we found that in the cases of IVC86–36 and IVC 75, Hα emission aligns well with an HI filament falling toward the Galactic plane at a relative velocity of ~50 km/s. The HI filament has a density of approximately 1cm⁻³, suggesting that the gas may be ionized as a result of this high-velocity collision.
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    I have employed in the following development projects.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: NRO-45m
+    link: "https://www.nro.nao.ac.jp/en/"
+    tagline: "Science operation of the large aperture single dish millimeter telescope"
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Next-generation heterodyne array
+    link: "https://sus-radioscilab.sakura.ne.jp/tac/top.html"
+    tagline: "Development of a superconducting integrated-Circuit heterodyne receiver for large-scale multi-pixel cameras"
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: NECST v4
+    link: "https://github.com/necst-telescope"
+    tagline: python-based telescope controlling system for single-dish telescopes.
 
-  - title: Atom
+  - title: NASCO
     link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    tagline: All-sky CO survey project with the NANTEN2 telescope
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: OMU-1.85,
+    link: 
+    tagline: Realization of Band 3+6+7 simultaneous observing system
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    My recent first authored papers are the following:
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: "A kinematic analysis of the giant molecular complex W3: Possible evidence for cloud-cloud collisions that triggered OB star clusters in W3 Main and W3(OH)"
+    link: "https://ui.adsabs.harvard.edu/abs/2024PASJ...76..895Y/abstract"
+    authors: Rin I. Yamada, Hidetoshi Sano, Kengo Tachihara, Rei Enokiya, Atsushi Nishimura, Shinji Fujita, Mikito Kohno, John H. Bieging, and Yasuo Fukui
+    conference: Publications of the Astronomical Society of Japan, Volume 76, Issue 5, pp.895-911
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  - title: "Evidence for a cloud-cloud collision in Sh2-233 triggering the formation of the high-mass protostar object IRAS 05358+3543"
+    link: "https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.1012Y/abstract"
+    authors: Rin I. Yamada, Yasuo Fukui, Hidetoshi Sano, Kengo Tachihara, John H. Bieging, Rei Enokiya, Atsushi Nishimura, Shinji Fujita, Mikito Kohno, and Kisetsu Tsuge
+    conference: "Monthly Notices of the Royal Astronomical Society, Volume 515, Issue 1, pp.1012-1025"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title: "A kinematic analysis of the CO clouds toward a reflection nebula NGC 2023 observed using the Nobeyama 45 m telescope: Further evidence for a cloud-cloud collision in the Orion region"
+    link: "https://ui.adsabs.harvard.edu/abs/2021PASJ...73..880Y/abstract"
+    authors: Rin I. Yamada, Rei Enokiya, Hidetoshi Sano, Shinji Fujita, Mikito Kohno, Daichi Tsutsumi, Atsushi Nishimura, Kengo Tachihara, and Yasuo Fukui
+    conference: "Publications of the Astronomical Society of Japan, Volume 73, Issue 4, pp.880-893"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
 
-      He is a great employee!
-
-skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
