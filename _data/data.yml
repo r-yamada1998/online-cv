@@ -16,7 +16,7 @@ sidebar:
   email: rin.yamada[at]nao.ac.jp
   timezone: Japan/Tokyo # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+  website: https://r-yamada1998.github.io/online-cv/ # Include the full website URL, including "http://" or "https://".
   github: r-yamada1998
   telegram: # add your nickname without '@' sign
   gitlab:
@@ -188,20 +188,25 @@ publications:
   intro: |
     My recent first authored papers are the following:
   papers:
+  - title: "A multi-scale molecular and atomic gas view on the HII region N113 in the Large Magellanic Cloud:Evidence for high-mass star formation triggered by supersonically-colliding HI flows "
+    link: "https://ui.adsabs.harvard.edu/abs/2026arXiv260329899Y/abstract"
+    authors: Rin I. Yamada, Kazuki Tokuda, Yasuo Fukui, Daiki Adachi, Marta Sewiło, Rémy Indebetouw, C.-H. Rosie Chen, Kisetsu Tsuge, Takeru Nishioka, Hidetoshi Sano, Mao Tamashiro, Naslim Neelamkodan, Tony Wong, Lynn R. Carlson, Joana M. Oliveira, Akiko Kawamura, Kengo Tachihara, and Toshikazu Onishi
+    conference: Accepted in ApJ
+
   - title: "A kinematic analysis of the giant molecular complex W3: Possible evidence for cloud-cloud collisions that triggered OB star clusters in W3 Main and W3(OH)"
     link: "https://ui.adsabs.harvard.edu/abs/2024PASJ...76..895Y/abstract"
     authors: Rin I. Yamada, Hidetoshi Sano, Kengo Tachihara, Rei Enokiya, Atsushi Nishimura, Shinji Fujita, Mikito Kohno, John H. Bieging, and Yasuo Fukui
-    conference: Publications of the Astronomical Society of Japan, Volume 76, Issue 5, pp.895-911
+    conference: Publications of the Astronomical Society of Japan, 2024, Volume 76, Issue 5, pp.895-911
 
   - title: "Evidence for a cloud-cloud collision in Sh2-233 triggering the formation of the high-mass protostar object IRAS 05358+3543"
     link: "https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.1012Y/abstract"
     authors: Rin I. Yamada, Yasuo Fukui, Hidetoshi Sano, Kengo Tachihara, John H. Bieging, Rei Enokiya, Atsushi Nishimura, Shinji Fujita, Mikito Kohno, and Kisetsu Tsuge
-    conference: "Monthly Notices of the Royal Astronomical Society, Volume 515, Issue 1, pp.1012-1025"
+    conference: "Monthly Notices of the Royal Astronomical Society, 2022, Volume 515, Issue 1, pp.1012-1025"
 
   - title: "A kinematic analysis of the CO clouds toward a reflection nebula NGC 2023 observed using the Nobeyama 45 m telescope: Further evidence for a cloud-cloud collision in the Orion region"
     link: "https://ui.adsabs.harvard.edu/abs/2021PASJ...73..880Y/abstract"
     authors: Rin I. Yamada, Rei Enokiya, Hidetoshi Sano, Shinji Fujita, Mikito Kohno, Daichi Tsutsumi, Atsushi Nishimura, Kengo Tachihara, and Yasuo Fukui
-    conference: "Publications of the Astronomical Society of Japan, Volume 73, Issue 4, pp.880-893"
+    conference: "Publications of the Astronomical Society of Japan, 2021, Volume 73, Issue 4, pp.880-893"
 
 
 
